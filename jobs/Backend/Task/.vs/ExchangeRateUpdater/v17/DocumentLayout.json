@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\providers\\exchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:providers\\exchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\models\\currencyratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:models\\currencyratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\responses\\exchangeratefixingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:responses\\exchangeratefixingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\models\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:models\\currencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|c:\\users\\raula\\source\\repos\\developers\\jobs\\backend\\task\\models\\exchangeratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2695D6-D24C-4460-A58E-A10F08550CE0}|ExchangeRateUpdater.csproj|solutionrelative:models\\exchangeratemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrencyRateModel.cs",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Models\\CurrencyRateModel.cs",
+              "RelativeDocumentMoniker": "Models\\CurrencyRateModel.cs",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Models\\CurrencyRateModel.cs",
+              "RelativeToolTip": "Models\\CurrencyRateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:27:31.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA6wC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:14:03.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateFixingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Responses\\ExchangeRateFixingResponse.cs",
+              "RelativeDocumentMoniker": "Responses\\ExchangeRateFixingResponse.cs",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Responses\\ExchangeRateFixingResponse.cs",
+              "RelativeToolTip": "Responses\\ExchangeRateFixingResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:29:39.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyModel.cs",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Models\\CurrencyModel.cs",
+              "RelativeDocumentMoniker": "Models\\CurrencyModel.cs",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Models\\CurrencyModel.cs",
+              "RelativeToolTip": "Models\\CurrencyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:46:42.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-12-23T13:16:40.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Providers\\ExchangeRateProvider.cs",
+              "RelativeDocumentMoniker": "Providers\\ExchangeRateProvider.cs",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Providers\\ExchangeRateProvider.cs",
+              "RelativeToolTip": "Providers\\ExchangeRateProvider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:11:46.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b4c43a40-487a-42da-956a-4d79555b536b",
+        "Display": 1,
+        "X": 634,
+        "Y": 60,
+        "Width": 834,
+        "Height": 988,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedHeight": 215,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExchangeRateModel.cs",
+              "DocumentMoniker": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Models\\ExchangeRateModel.cs",
+              "RelativeDocumentMoniker": "Models\\ExchangeRateModel.cs",
+              "ToolTip": "C:\\Users\\raula\\source\\repos\\developers\\jobs\\Backend\\Task\\Models\\ExchangeRateModel.cs",
+              "RelativeToolTip": "Models\\ExchangeRateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:57:20.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
